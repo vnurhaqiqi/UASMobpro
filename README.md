@@ -9,7 +9,7 @@ Kelompok :
 Rincian Tugas : 
 - Rexsy: database profil kampus, marker maps dan activity tentang aplikasi
 - Rudi: lanjutan database profil kampus
-- Viqi : mainActivity, mapsActivity, daftar kampus
+- Viqi : mainActivity, mapsActivity, daftar kampus, marker maps
 
 Screenshoot aplikasi :
  
