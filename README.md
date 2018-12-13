@@ -11,6 +11,9 @@ Rincian Tugas :
 - Rudi: lanjutan database profil kampus
 - Viqi : mainActivity, mapsActivity, daftar kampus, marker maps
 
+Link Playstore :
+https://play.google.com/store/apps/details?id=com.kampusKITA.viqi.kampuskita
+
 Screenshoot aplikasi :
  
 ![whatsapp image 2018-01-11 at 14 32 44 1](https://user-images.githubusercontent.com/32282290/34855462-6864aa4e-f772-11e7-9677-12567c1c7ba5.jpeg)
